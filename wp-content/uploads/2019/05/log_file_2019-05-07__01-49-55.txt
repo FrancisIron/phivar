@@ -1,0 +1,70 @@
+
+---Downloaded files---
+The import files for: Cascara were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://consultancysoft.com
+Data file = /app/data/wp-content/uploads/2019/05/demo-content-import-file_2019-05-07__01-49-55.xml
+Widget file = /app/data/wp-content/uploads/2019/05/demo-widgets-import-file_2019-05-07__01-49-55.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+Codestar Framework files loaded.
+
+---Importing widgets---
+Main Widget Area : 
+
+Cascara: Weather - Weather - Imported
+Cascara: Recent Posts With Image - Popular - Imported
+Cascara: Text Widget - No Title - Imported
+Cascara: Social Counter - Connect With Us - Imported
+Categorías - No Title - Imported
+Cascara: Recent Posts With Image - VIDEO POSTS - Imported
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+Footer Widget 1 : 
+
+Cascara: Text Widget - No Title - Imported
+
+footer-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Cascara: Recent Posts With Image - Recent Posts - Imported to Inactive
+
+footer-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+* Recent Tweets - LATEST TWEETS - Imported to Inactive
+
+footer-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Mailchimp Sign-Up Form - Get the latest news &amp; Updates - Imported to Inactive
+
+footer-5 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Cascara: Text Widget - Experience our news In your hand - Imported to Inactive
+
+Recent Posts : 
+
+Entradas recientes - No Title - Imported
+
+Recent Comments : 
+
+Comentarios recientes - No Title - Imported
+
+Post Categories : 
+
+Categorías - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+
