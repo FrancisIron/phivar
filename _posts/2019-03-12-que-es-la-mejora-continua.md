@@ -1,19 +1,10 @@
 ---
-id: 2493
 title: ¿Qué es la mejora continua?
 date: 2019-03-12T14:02:21-03:00
 author: Macarena MIllapán
 layout: post
-guid: https://consultancysoft.com/?p=2493
-permalink: /que-es-la-mejora-continua/
-post_views_count:
-  - "60"
 image: /wp-content/uploads/2019/03/tyler-franta-589346-unsplash.jpg
-categories:
-  - Business
-  - Calidad
-  - Gestión de calidad
-  - Negocios
+categories: [Negocios, Calidad, Gestión de calidad]
 ---
 Este post viene como respuesta a una conversación con mis amigos, ellos tenían una idea equivocada del concepto, como buena ingeniera industrial, esto es parte de mi vida, y en el siguiente post explicaré todo con el mayor detalle posible. 
 

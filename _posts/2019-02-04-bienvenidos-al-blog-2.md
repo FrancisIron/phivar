@@ -1,15 +1,9 @@
 ---
-id: 2487
-title: Bienvenidos al blog
+layout: post
+title: "Bienvenidos al blog"
 date: 2019-02-04T11:49:41-03:00
 author: Francisco Fierro
-layout: post
-guid: https://consultancysoft.com/?p=2487
-permalink: /bienvenidos-al-blog-2/
-post_views_count:
-  - "81"
-categories:
-  - Business
+categories: [Negocios]
 ---
 Buenas, me llamo Francisco Fierro, hoy vengo a presentarme puesto que este es mi primer post aquí y para empezar me gustaría comenzar diciendo que actualmente soy estudiante, estudio Ingeniería Informática.
 

@@ -1,16 +1,9 @@
 ---
-id: 2421
 title: Bienvenidos al blog
 date: 2019-02-11T15:34:46-03:00
-author: Macarena MIllapán
-excerpt: Post de presentación de los escritores y team de ConsultancySoft
+author: Macarena Millapán
 layout: post
-guid: https://consultancysoft.com/?p=2421
-permalink: /bienvenidos-al-blog/
-post_views_count:
-  - "63"
-categories:
-  - Business
+categories: [Negocios]
 ---
 Bueno, este es el primer post y solo voy a presentarme y presentar el objetivo de este sitio, claro, no es solo mío aquí cooperan y seguirán cooperando muchas personas más relacionadas con el área de las TI, principalmente ingenieros.
 

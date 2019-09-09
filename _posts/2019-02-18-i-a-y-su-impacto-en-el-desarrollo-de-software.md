@@ -1,16 +1,10 @@
 ---
-id: 2490
 title: I.A. y su impacto en el desarrollo de software
 date: 2019-02-18T11:59:09-03:00
 author: Francisco Fierro
 layout: post
-guid: https://consultancysoft.com/?p=2490
-permalink: /i-a-y-su-impacto-en-el-desarrollo-de-software/
-post_views_count:
-  - "108"
 image: /wp-content/uploads/2019/02/hitesh-choudhary-666984-unsplash.jpg
-categories:
-  - Articulos
+categories: [Articulos]
 ---
 Durante décadas, los científicos han tratado de desarrollar diferentes técnicas, modelos y algoritmos que doten de a las computadoras con el conocimiento, experiencia y comportamiento sea similar al de un ser humano. Esto es lo que da nacimiento a las inteligencias artificiales, una forma de definirlas desde el punto de vista de la informática es que son maquinas o sistemas informáticos capaces de percibir su entorno y llevar a cabo acciones que maximicen sus posibilidades de éxito en alguna determinada tarea o objetivo, osea, que sean capaces de imitar las funciones cognitivas de los seres humanos.
 
