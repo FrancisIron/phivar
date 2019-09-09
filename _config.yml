@@ -2,4 +2,4 @@ url: https://consultancysoft.com
 name: ConsultancySoft
 description: Información que te importa
 
-theme: jekyll-theme-minimal
+remote_theme: chrisrhymes/bulma-clean-theme
