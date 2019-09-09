@@ -1,5 +1,65 @@
-url: https://consultancysoft.com
-name: ConsultancySoft
-description: Información que te importa
+# Site
+name: 'PhiVAR'
+description: 'Información que te importa'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+disqus: ''
+email: 'contacto@consultancysoft.com'
+mailchimp-list: ''
 
-remote_theme: chrisrhymes/bulma-clean-theme
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    francisiron:
+      name:           Francisco Fierro
+      site:           https://www.meowsoft.net
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      email:          fjff603@gmail.com
+      twitter:        https://twitter.com/FrancisIr0n
+
+    meiserene:
+      name:           Macarena Millapán
+      site:           https://www.consultancysoft.com
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          macarena.millapan.c@gmail.com
+      twitter:        https://twitter.com/MeiSerene
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
