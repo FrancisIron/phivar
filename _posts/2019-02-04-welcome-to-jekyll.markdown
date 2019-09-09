@@ -1,5 +1,6 @@
 ---
 layout: post
+author: fierro
 title:  "Welcome to Jekyll!"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg

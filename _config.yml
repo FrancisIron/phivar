@@ -29,7 +29,7 @@ authors:
 
     mako:
       name:           Macarena Millapán
-      site:           https://www.consultancysoft.com
+      site:           https://consultancysoft.com
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          macarena.millapan.c@gmail.com
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: fierro
       avatar: /assets/images/avatar1.jpg
       
   # all pages
