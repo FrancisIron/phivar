@@ -14,7 +14,6 @@ Entre otras de mis ocupaciones o hobbies están:
   * La producción audiovisual: de cualquier tipo, es un pasatiempo que también tengo desde pequeño y que tratado de seguir cultivando en mi.
   * La música: es algo que disfruto mucho, escuchar música, de todo tipo, esto nace igual de niño debido a la suerte que tuve de poder aprovechar y sacarle jugo a una biblioteca de casetes que solían andar por mi casa. Eso calo en que quisiera aprender a tocar instrumentos musicales, con los años me compraron una guitarra, y aprendí a tocarla, también se tocar flauta dulce, algo de piano debido a mis clases de teoría musical, ocarina y percusiones, actualmente eso sí es algo que tengo botado, lo que no me quita que disfruto mucho escuchando música.
   * Jugar videojuegos, juego de mesa y rol: No hay mucho que decir, me gusta jugar cosas de todo tipo de géneros.
-  * 
 
 Y para concluir me gustaría añadir que me gusta leer historias o novelas de misterio, también suelo leer muchos blogs en internet y escuchar podcast.
 
