@@ -1,27 +1,10 @@
 ---
-id: 2726
 title: 11 PASOS PARA AUMENTAR TU PRODUCTIVIDAD
 date: 2019-06-25T12:50:23-03:00
-author: Macarena MIllapán
-excerpt: Lista de los mejores y más importantes tips para comenzar a aprovechar mejor el día y aumentar la productividad tanto en el trabajo como en el estudio.
+author: Macarena Millapán
 layout: post
-guid: https://consultancysoft.com/?p=2726
-permalink: /11-pasos-para-aumentar-tu-productividad/
-post_type_metabox:
-  - 'a:2:{s:19:"gallery_post_format";s:0:"";s:10:"video_post";s:0:"";}'
-post_type_options:
-  - 'a:1:{s:8:"full_ban";b:0;}'
-post_cat_options:
-  - 'a:2:{s:9:"cat_color";s:0:"";s:12:"cat_bg_color";s:0:"";}'
-page_type_metabox:
-  - 'a:33:{s:14:"topbar_options";s:7:"default";s:8:"top_left";s:0:"";s:9:"top_right";s:0:"";s:10:"top_center";s:0:"";s:17:"topbar_left_width";s:0:"";s:18:"topbar_right_width";s:0:"";s:19:"topbar_center_width";s:0:"";s:9:"topbar_bg";s:0:"";s:13:"topbar_border";s:0:"";s:18:"default_menu_color";s:0:"";s:24:"default_menu_hover_color";s:0:"";s:17:"sticky_menu_color";s:0:"";s:23:"sticky_menu_hover_color";s:0:"";s:11:"choose_menu";s:0:"";s:13:"sticky_header";s:7:"default";s:13:"sticky_footer";s:7:"default";s:11:"search_icon";s:7:"default";s:16:"fixed_navigation";s:7:"default";s:17:"login_signup_icon";s:7:"default";s:11:"banner_type";s:13:"default-title";s:14:"page_revslider";s:0:"";s:17:"page_custom_title";s:0:"";s:19:"title_area_spacings";s:12:"padding-none";s:18:"title_top_spacings";s:0:"";s:21:"title_bottom_spacings";s:0:"";s:25:"titlebar_bg_overlay_color";s:0:"";s:16:"content_spacings";s:12:"padding-none";s:20:"content_top_spacings";s:0:"";s:23:"content_bottom_spacings";s:0:"";s:15:"copyright_style";s:9:"style-one";s:11:"hide_header";b:0;s:11:"hide_footer";b:0;s:14:"hide_copyright";b:0;}'
-post_views_count:
-  - "77"
 image: /wp-content/uploads/2019/06/hello-i-m-nik-UrLUw40GkA-unsplash.jpg
-categories:
-  - Actualidad
-  - Emprendimiento
-  - Estilo de vida
+categories: [Actualidad, Emprendimiento, Estilo de vida]
 ---
 ¿alguna vez han pensado o escuchado frases como esta: “Si el día tuviera 35 horas aún me faltaría tiempo”? ¿Si? ¿no? Es más común de lo que se aparenta, en días como los nuestros, con trayectos cada vez más largo, ya sea la mera distancia o la congestión vehicular, tenemos jornadas de trabajo que nos obligan salir temprano, llegar tarde solo a dormir, con menos horas para el relajo y el ocio, parece que la vida se escapara cada día… ¡pero tranquilo! no todo es tan malo, y cuando logras planificar, tu día se vuelve cada vez más llevadero, debes también discernir entre lo que es realmente importante y lo que no lo es tanto, entre lo que es beneficioso en tu vida y lo que debes dejar atrás, por ello, en este artículo traigo tips para que logres hacer cada día más productivo y efectivo.
 

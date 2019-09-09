@@ -1,26 +1,10 @@
 ---
-id: 2775
 title: 'Atención: Los smartphones también pueden ser atacados por virus'
 date: 2019-09-02T07:30:34-03:00
-author: Macarena MIllapán
+author: Macarena Millapán
 layout: post
-guid: https://consultancysoft.com/?p=2775
-permalink: /atencion-los-smartphones-tambien-pueden-ser-atacados-por-virus/
-post_type_metabox:
-  - 'a:2:{s:19:"gallery_post_format";s:0:"";s:10:"video_post";s:0:"";}'
-post_type_options:
-  - 'a:1:{s:8:"full_ban";b:0;}'
-post_cat_options:
-  - 'a:2:{s:9:"cat_color";s:0:"";s:12:"cat_bg_color";s:0:"";}'
-page_type_metabox:
-  - 'a:33:{s:14:"topbar_options";s:7:"default";s:8:"top_left";s:0:"";s:9:"top_right";s:0:"";s:10:"top_center";s:0:"";s:17:"topbar_left_width";s:0:"";s:18:"topbar_right_width";s:0:"";s:19:"topbar_center_width";s:0:"";s:9:"topbar_bg";s:0:"";s:13:"topbar_border";s:0:"";s:18:"default_menu_color";s:0:"";s:24:"default_menu_hover_color";s:0:"";s:17:"sticky_menu_color";s:0:"";s:23:"sticky_menu_hover_color";s:0:"";s:11:"choose_menu";s:0:"";s:13:"sticky_header";s:7:"default";s:13:"sticky_footer";s:7:"default";s:11:"search_icon";s:7:"default";s:16:"fixed_navigation";s:7:"default";s:17:"login_signup_icon";s:7:"default";s:11:"banner_type";s:13:"default-title";s:14:"page_revslider";s:0:"";s:17:"page_custom_title";s:0:"";s:19:"title_area_spacings";s:12:"padding-none";s:18:"title_top_spacings";s:0:"";s:21:"title_bottom_spacings";s:0:"";s:25:"titlebar_bg_overlay_color";s:0:"";s:16:"content_spacings";s:12:"padding-none";s:20:"content_top_spacings";s:0:"";s:23:"content_bottom_spacings";s:0:"";s:15:"copyright_style";s:9:"style-one";s:11:"hide_header";b:0;s:11:"hide_footer";b:0;s:14:"hide_copyright";b:0;}'
-post_views_count:
-  - "17"
 image: /wp-content/uploads/2019/08/p2.jpg
-categories:
-  - Actualidad
-  - Articulos
-  - Tecnología
+categories: [Actualidad, Articulos, Tecnología]
 ---
 Si, eso es cierto, los virus no solo afectan a los computadores, existe [malware](https://es.wikipedia.org/wiki/Malware) para dispositivos móviles también que podrían, al igual que en los computadores, ocasionar fallas a nivel de software, hardware, borrar o acceder a nuestra información y conectarse a micrófonos y cámaras, pero no entren en pánico, en el siguiente post hablaremos sobre cuales son estos virus, qué es lo que hacen y cómo evitarlos en nuestros equipos para que podamos utilizar nuestros dispositivos sin temor alguno.
 

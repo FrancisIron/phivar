@@ -1,29 +1,10 @@
 ---
-id: 2753
 title: ¿Qué es Data Transfer Project (DTP)? y porque es el futuro de la portabilidad de datos entre servicios online
 date: 2019-08-01T11:30:31-03:00
 author: Francisco Fierro
 layout: post
-guid: https://consultancysoft.com/?p=2753
-permalink: /que-es-data-transfer-project-dtp-y-porque-es-el-futuro-de-la-portabilidad-de-datos-entre-servicios-online/
-post_type_metabox:
-  - 'a:2:{s:19:"gallery_post_format";s:0:"";s:10:"video_post";s:0:"";}'
-post_type_options:
-  - 'a:1:{s:8:"full_ban";b:0;}'
-post_cat_options:
-  - 'a:2:{s:9:"cat_color";s:0:"";s:12:"cat_bg_color";s:0:"";}'
-page_type_metabox:
-  - 'a:33:{s:14:"topbar_options";s:7:"default";s:8:"top_left";s:0:"";s:9:"top_right";s:0:"";s:10:"top_center";s:0:"";s:17:"topbar_left_width";s:0:"";s:18:"topbar_right_width";s:0:"";s:19:"topbar_center_width";s:0:"";s:9:"topbar_bg";s:0:"";s:13:"topbar_border";s:0:"";s:18:"default_menu_color";s:0:"";s:24:"default_menu_hover_color";s:0:"";s:17:"sticky_menu_color";s:0:"";s:23:"sticky_menu_hover_color";s:0:"";s:11:"choose_menu";s:0:"";s:13:"sticky_header";s:7:"default";s:13:"sticky_footer";s:7:"default";s:11:"search_icon";s:7:"default";s:16:"fixed_navigation";s:7:"default";s:17:"login_signup_icon";s:7:"default";s:11:"banner_type";s:13:"default-title";s:14:"page_revslider";s:0:"";s:17:"page_custom_title";s:0:"";s:19:"title_area_spacings";s:12:"padding-none";s:18:"title_top_spacings";s:0:"";s:21:"title_bottom_spacings";s:0:"";s:25:"titlebar_bg_overlay_color";s:0:"";s:16:"content_spacings";s:12:"padding-none";s:20:"content_top_spacings";s:0:"";s:23:"content_bottom_spacings";s:0:"";s:15:"copyright_style";s:9:"style-one";s:11:"hide_header";b:0;s:11:"hide_footer";b:0;s:14:"hide_copyright";b:0;}'
-post_views_count:
-  - "21"
 image: /wp-content/uploads/2019/08/taylor-vick-M5tzZtFCOfs-unsplash.jpg
-categories:
-  - Actualidad
-  - Articulos
-  - Google
-  - Negocios
-  - Noticias
-  - Tecnología
+categories: [Actualidad, Articulos, Google, Negocios, Noticias, Tecnología]
 ---
 **Data Transfer Project** (o DTP) es una iniciativa de código abierto que ofrece estandarizar la portabilidad de datos entre múltiples plataformas en línea, intentando solucionar con esto uno de los grandes problemas que tienen los usuarios cuando quieren migrado datos. Nos referimos al **Data Lock-in**, la imposibilidad de obtener todos los datos que tenemos almacenados en un servicio para irnos a otro. El proyecto fue lanzado y presentado por Google el 20 de julio del 2018, y actualmente se ha asociado con Facebook, Microsoft, Twitter y recientemente Apple.
 

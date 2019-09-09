@@ -1,16 +1,10 @@
 ---
-id: 2572
 title: 8 puntos que debes saber a la hora de emprender en tu propio negocio
 date: 2019-04-26T19:29:31-03:00
-author: Macarena MIllapán
+author: Macarena Millapán
 layout: post
-guid: https://consultancysoft.com/?p=2572
-permalink: /8-puntos-que-debes-saber-a-la-hora-de-emprender/
-post_views_count:
-  - "51"
 image: /wp-content/uploads/2019/04/samson-creative-91091-unsplash-628x275.jpg
-categories:
-  - Business
+categories: [Negocios]
 ---
 Emprendimientos hay muchos, cada día florecen cientos de negocios en el mundo, pero ¿Cuántos fracasan? Según las estadísticas 9 de cada 10 emprendimientos fracasan antes de los primeros 2 años, personalmente cuento con varios fracasos en el camino y pocos éxitos, pero esto no debe desmotivarnos, ahora te muestro la lista de cosas a tener en mente al momento de lanzarte en esta maravillosa aventura de crear tu propio negocio.
 
