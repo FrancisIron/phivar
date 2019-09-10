@@ -1,6 +1,6 @@
 ---
-title: Bienvenidos al blog
-author: Macarena Millapán
+title: "Bienvenidos al blog"
+author: mako
 layout: post
 image: assets/images/1.jpg
 categories: [Negocios]
