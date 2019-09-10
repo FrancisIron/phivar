@@ -3,7 +3,8 @@ layout: post
 title: "Bienvenidos al blog"
 author: fierro
 categories: [Negocios]
-image: assets/images/17.jpg
+image: assets/images/2.jpg
+comments: true
 ---
 Buenas, me llamo Francisco Fierro, hoy vengo a presentarme puesto que este es mi primer post aquí y para empezar me gustaría comenzar diciendo que actualmente soy estudiante, estudio Ingeniería Informática.
 
