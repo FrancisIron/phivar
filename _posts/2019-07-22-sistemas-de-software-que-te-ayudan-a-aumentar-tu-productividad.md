@@ -5,6 +5,7 @@ excerpt: "¿Como aumentar tu productividad diaria? ¿Existen herramientas que te
 layout: post
 image: assets/images/articulo-sistemasProductividad.jpg
 categories: [Articulos, Negocios, Tecnología]
+tags: featured
 ---
 ¿Cómo hacer que un día tenga más de 30 horas? ¿Dormir o terminar el trabajo atrasado? En definitiva, ¿Cómo aumentar la productividad? Son dudas de muchas personas actualmente, cada día hay más información que leer, es necesario capacitarse en nuevas tecnologías, nuevos procedimientos, es necesario estar informado a diario el valor del dólar, el tomar decisiones económicas para su empresa o para su vida, la creación y presión que otorgan los indicadores de gestión es otro tema, el necesitar descansar, los viajes largos por la mañana, la mala alimentación, y un largo etcétera. La conclusión: nos falta tiempo a diario.
 
