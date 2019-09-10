@@ -1,5 +1,5 @@
 ---
-title: "¿Qué es Data Transfer Project (DTP)? y porque es el futuro de la portabilidad de datos entre servicios online"
+title: "¿Qué es Data Transfer Project (DTP)?, el futuro de la portabilidad de datos entre servicios online"
 author: fierro
 layout: post
 image: assets/images/articulo-dtp.jpg
