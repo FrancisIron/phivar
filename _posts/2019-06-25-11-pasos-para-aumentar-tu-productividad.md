@@ -4,7 +4,7 @@ author: mako
 layout: post
 image: assets/images/articulo-economiaCircular.jpg
 categories: [Actualidad, Emprendimiento, Estilo de vida]
-tags: featured
+tags: destacado
 ---
 ¿alguna vez han pensado o escuchado frases como esta: “Si el día tuviera 35 horas aún me faltaría tiempo”? ¿Si? ¿no? Es más común de lo que se aparenta, en días como los nuestros, con trayectos cada vez más largo, ya sea la mera distancia o la congestión vehicular, tenemos jornadas de trabajo que nos obligan salir temprano, llegar tarde solo a dormir, con menos horas para el relajo y el ocio, parece que la vida se escapara cada día… ¡pero tranquilo! no todo es tan malo, y cuando logras planificar, tu día se vuelve cada vez más llevadero, debes también discernir entre lo que es realmente importante y lo que no lo es tanto, entre lo que es beneficioso en tu vida y lo que debes dejar atrás, por ello, en este artículo traigo tips para que logres hacer cada día más productivo y efectivo.
 

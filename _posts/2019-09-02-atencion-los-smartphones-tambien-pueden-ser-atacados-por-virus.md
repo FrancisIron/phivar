@@ -4,7 +4,7 @@ author: mako
 layout: post
 image: assets/images/articulo-smartphoneVirus.jpg
 categories: [Actualidad, Articulos, Tecnología]
-tags: featured
+tags: destacado
 ---
 Si, eso es cierto, los virus no solo afectan a los computadores, existe [malware](https://es.wikipedia.org/wiki/Malware) para dispositivos móviles también que podrían, al igual que en los computadores, ocasionar fallas a nivel de software, hardware, borrar o acceder a nuestra información y conectarse a micrófonos y cámaras, pero no entren en pánico, en el siguiente post hablaremos sobre cuales son estos virus, qué es lo que hacen y cómo evitarlos en nuestros equipos para que podamos utilizar nuestros dispositivos sin temor alguno.
 

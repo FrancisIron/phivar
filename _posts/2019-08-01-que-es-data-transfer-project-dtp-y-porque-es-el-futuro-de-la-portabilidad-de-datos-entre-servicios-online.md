@@ -4,7 +4,7 @@ author: fierro
 layout: post
 image: assets/images/articulo-dtp.jpg
 categories: [Actualidad, Articulos, Google, Negocios, Noticias, Tecnología]
-tags: featured
+tags: destacado
 ---
 **Data Transfer Project** (o DTP) es una iniciativa de código abierto que ofrece estandarizar la portabilidad de datos entre múltiples plataformas en línea, intentando solucionar con esto uno de los grandes problemas que tienen los usuarios cuando quieren migrado datos. Nos referimos al **Data Lock-in**, la imposibilidad de obtener todos los datos que tenemos almacenados en un servicio para irnos a otro. El proyecto fue lanzado y presentado por Google el 20 de julio del 2018, y actualmente se ha asociado con Facebook, Microsoft, Twitter y recientemente Apple.
 

@@ -4,7 +4,7 @@ author: fierro
 layout: post
 image: assets/images/articulo-economiaCircular.jpg
 categories: [Actualidad, Articulos, Tecnología]
-tags: featured
+tags: destacado
 ---
 En el horizonte del 2050, la industria agroalimentaria dependerá en buena parte de su capacidad para hacer frente a los desafíos en materia de sostenibilidad. De hecho, la escasez de recursos como el agua comienza a ser una de las principales preocupaciones tanto a nivel nacional como internacional. 
 
