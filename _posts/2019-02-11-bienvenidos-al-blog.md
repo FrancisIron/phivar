@@ -5,6 +5,7 @@ layout: post
 image: assets/images/1.jpg
 categories: [Negocios]
 comments: true
+tags: [sticky]
 ---
 Bueno, este es el primer post y solo voy a presentarme y presentar el objetivo de este sitio, claro, no es solo mío aquí cooperan y seguirán cooperando muchas personas más relacionadas con el área de las TI, principalmente ingenieros.
 
