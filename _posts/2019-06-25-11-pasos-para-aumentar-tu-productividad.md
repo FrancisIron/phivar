@@ -2,7 +2,7 @@
 title: "11 PASOS PARA AUMENTAR TU PRODUCTIVIDAD"
 author: mako
 layout: post
-image: assets/images/articulo-economiaCircular.jpg
+image: assets/images/articulo-aumentarProductividad.jpg
 categories: [Actualidad, Emprendimiento, Estilo de vida]
 tags: destacado
 ---
