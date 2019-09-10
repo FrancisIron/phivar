@@ -26,7 +26,7 @@ Es por esto que los equipos de investigación + desarrollo deben proponer **solu
   
     Por otra parte la optimización de las operaciones de limpieza mediante la aplicación de nuevas tecnologías ecoeficientes, como el sistema de _pigging_, que es el uso de dispositivos conocidos como cerdos o raspadores, para el vaciado de tuberías por aire comprimido, maximizan el ahorro de agua, reduciendo significativamente su consumo.
 
-    ![Ejemplo de sistema de _pigging_, en la industria del gas]({{site.baseurl}}assets/images/Atco-4.jpg)
+    ![Ejemplo de sistema de _pigging_, en la industria del gas]({{site.baseurl}}/assets/images/Atco-4.jpg)
 
   * **Reciclado de corrientes de agua dentro de los procesos:** Esto trata de permitir el uso del agua como fuente alternativa al agua potable, reduciendo así de partida la necesidad de emplear una fuente de agua externa de pozo o de red. Este hecho consigue, aparte de incrementar la eficiencia el uso de recursos hídricos, minimizar los costes derivados.  
   
