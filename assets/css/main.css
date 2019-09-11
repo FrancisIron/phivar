@@ -8470,11 +8470,10 @@ div.img img{
   padding:0;
 }
 div.img span{
-  line-height:normal;
-  font-size: 11px;
-  display: table-caption;
+  font-size: 1.2rem;
+  display: table-footer-group;
   margin: 0;
-  background: #646464;
+  background: black;
   color: white;
   font-style: italic;
   padding: 5px;
