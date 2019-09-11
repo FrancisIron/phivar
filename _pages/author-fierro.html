@@ -8,7 +8,7 @@ permalink: "/author-francisco-fierro.html"
     <div class="col-md-8">        
         <div class="row align-items-center mb-5">
             <div class="col-md-9">
-                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.fierro.twitter }}">Follow</a></span></h2>
+                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.fierro.twitter }}">Seguir</a></span></h2>
                 <p><a href="{{ site.authors.fierro.site }}">{{ site.authors.fierro.site }}</a></p>
                 <p class="excerpt">{{ site.authors.fierro.bio }}</p>
             </div>
@@ -16,7 +16,7 @@ permalink: "/author-francisco-fierro.html"
                 <img alt="{{ site.authors.fierro.name }}" src="{{site.baseurl}}/{{ site.authors.fierro.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
         </div>
-        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Posts escritos por {{page.title}}</span></h4>
             {% assign posts = site.posts | where:"author","fierro" %}
             {% for post in posts %}
             {% include main-loop-card.html %}
