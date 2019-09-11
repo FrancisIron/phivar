@@ -26,7 +26,7 @@ Es por esto que los equipos de investigación + desarrollo deben proponer **solu
   
     Por otra parte la optimización de las operaciones de limpieza mediante la aplicación de nuevas tecnologías ecoeficientes, como el sistema de _pigging_, que es el uso de dispositivos conocidos como cerdos o raspadores, para el vaciado de tuberías por aire comprimido, maximizan el ahorro de agua, reduciendo significativamente su consumo.
 
-  <p><div class='img'><img src='{{site.baseurl}}/assets/images/Atco-4.jpg'/><span>Ejemplo de sistema de pigging, en la industria del gas</span></div></p>
+    <p><div class='img'><img src='{{site.baseurl}}/assets/images/Atco-4.jpg'/><span>Ejemplo de sistema de pigging, en la industria del gas</span></div></p>
 
   * **Reciclado de corrientes de agua dentro de los procesos:** Esto trata de permitir el uso del agua como fuente alternativa al agua potable, reduciendo así de partida la necesidad de emplear una fuente de agua externa de pozo o de red. Este hecho consigue, aparte de incrementar la eficiencia el uso de recursos hídricos, minimizar los costes derivados.  
   
@@ -34,7 +34,7 @@ Es por esto que los equipos de investigación + desarrollo deben proponer **solu
   
     Un ejemplo de solución es el [proyecto Eco3Wash](http://www.ivem.es/proyecto-ECO3WASH.html), es un prototipo constituido por un tren de tecnologías que se basan en procesos de oxidación avanzada, capaz de reciclar cada hora hasta mil litros de agua del lavado de frutas, por ejemplo, o de hortalizas de cooperativas e industrias agrícolas.
 
-    ![Ejemplo del prototipo de Eco3Wash](assets/images/proyecto-ECO3WASH_clip_image002.jpg)
+    <p><div class='img'><img src='assets/images/proyecto-ECO3WASH_clip_image002.jpg'/><span>Ejemplo del prototipo de Eco3Wash</span></div></p>
 
   * Aprovechamiento de recursos de las aguas residuales: Las aguas residuales contienen recursos aprovechables también, como lo son el nitrógeno y el fósforo, nutrientes que pueden ser valorizados mediante la aplicación de distintas técnicas de tratamiento de aguas.  
   

@@ -13,7 +13,7 @@ tags: destacado
 
 Famosa ya es la frase de “no trabajes más, trabaja mejor”, ¿Cómo se puede aumentar la productividad para sacar mejor partido? En nuestro post anterior (ver aquí) ya expusimos alguno de los puntos que podrían ayudarte a sacar más provecho de tus horas diarias, y en este post queremos mostrar distintas herramientas de software gratuito que podrían ayudar a aumentar la productividad de tu día, tanto para las personas como para las empresas.<figure class="wp-block-image">
 
-<img src="https://consultancysoft.com/wp-content/uploads/2019/07/rami-al-zayat-w33-zg-dNL4-unsplash-1024x683.jpg" alt="smartphone android" class="wp-image-2739" srcset="https://consultancysoft.com/wp-content/uploads/2019/07/rami-al-zayat-w33-zg-dNL4-unsplash-1024x683.jpg 1024w, https://consultancysoft.com/wp-content/uploads/2019/07/rami-al-zayat-w33-zg-dNL4-unsplash-300x200.jpg 300w, https://consultancysoft.com/wp-content/uploads/2019/07/rami-al-zayat-w33-zg-dNL4-unsplash-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+![imagen que muestra un smartphone]({{site.baseurl}}/assets/images/imagen-sistemasProductividad-1.jpg)
 
 ## Optimizar el tiempo trabajando
 

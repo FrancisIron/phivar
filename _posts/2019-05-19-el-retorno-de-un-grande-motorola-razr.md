@@ -15,10 +15,9 @@ Cada vez estamos más expuestos a pantallas, nuevas tendencias y más contenido,
 
 ## El nuevo y mejorado Motorola Razr
 
-Este teléfono móvil ha sido rumoreado desde el año 2016, pero recién hace algunas semanas se han publicado videos del prototipo, a través de la red social __ de China, Este teléfono tendría una pantalla que se ampliaría en vertical, a diferencia de las propuestas de sus competidores que muestran dispositivos móviles que se transformarían en tablets, este mantendría su calidad de teléfono celular. Se presume que podría estar pensado para ver en él [contenidos multimedia](https://www.cnet.com/es/noticias/motorola-razr-caracteristicas-precio-lanzamiento-rumores-2019/).<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+Este teléfono móvil ha sido rumoreado desde el año 2016, pero recién hace algunas semanas se han publicado videos del prototipo, a través de la red social __ de China, Este teléfono tendría una pantalla que se ampliaría en vertical, a diferencia de las propuestas de sus competidores que muestran dispositivos móviles que se transformarían en tablets, este mantendría su calidad de teléfono celular. Se presume que podría estar pensado para ver en él [contenidos multimedia](https://www.cnet.com/es/noticias/motorola-razr-caracteristicas-precio-lanzamiento-rumores-2019/).
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxfI6-ZltWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Características del nuevo Motorola Razr 
 
