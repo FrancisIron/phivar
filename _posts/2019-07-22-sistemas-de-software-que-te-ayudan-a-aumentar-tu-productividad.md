@@ -3,6 +3,7 @@ title: "Sistemas de software que te ayudan a aumentar tu productividad"
 author: mako
 excerpt: "¿Como aumentar tu productividad diaria? ¿Existen herramientas que te permiten mejorar tus indicadores personales? Aquí te contamos de algunas alternativas que te ayudarán a sacar el máximo provecho de tu tiempo."
 layout: post
+comments: true
 image: assets/images/articulo-sistemasProductividad.jpg
 categories: [Articulos, Negocios, Tecnología]
 tags: destacado

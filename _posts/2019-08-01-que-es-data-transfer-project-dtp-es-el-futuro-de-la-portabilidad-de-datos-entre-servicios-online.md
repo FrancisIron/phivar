@@ -2,6 +2,7 @@
 title: "¿Qué es Data Transfer Project (DTP)?, el futuro de la portabilidad de datos entre servicios online"
 author: fierro
 layout: post
+comments: true
 image: assets/images/articulo-dtp.jpg
 categories: [Actualidad, Articulos, Google, Negocios, Noticias, Tecnología]
 tags: destacado
