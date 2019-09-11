@@ -2,6 +2,7 @@
 title: "Atención: Los smartphones también pueden ser atacados por virus"
 author: mako
 layout: post
+comments: true
 image: assets/images/articulo-smartphoneVirus.jpg
 categories: [Actualidad, Articulos, Tecnología]
 tags: destacado
