@@ -8460,3 +8460,23 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+/* Test de poner una pie de foto */
+div.img {
+  display:table;
+}
+div.img img{
+  margin:0;
+  padding:0;
+}
+div.img span{
+  line-height:normal;
+  font-size: 11px;
+  display: table-caption;
+  margin: 0;
+  background: #646464;
+  color: white;
+  font-style: italic;
+  padding: 5px;
+  text-align: center;
+}
