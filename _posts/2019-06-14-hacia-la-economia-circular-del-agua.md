@@ -34,7 +34,7 @@ Es por esto que los equipos de investigación + desarrollo deben proponer **solu
   
     Un ejemplo de solución es el [proyecto Eco3Wash](http://www.ivem.es/proyecto-ECO3WASH.html), es un prototipo constituido por un tren de tecnologías que se basan en procesos de oxidación avanzada, capaz de reciclar cada hora hasta mil litros de agua del lavado de frutas, por ejemplo, o de hortalizas de cooperativas e industrias agrícolas.
 
-    <p><div class='img'><img src='assets/images/proyecto-ECO3WASH_clip_image002.jpg'/><span>Ejemplo del prototipo de Eco3Wash</span></div></p>
+    <p><div class='img'><img src='{{site.baseurl}}/assets/images/proyecto-ECO3WASH_clip_image002.jpg'/><span>Ejemplo del prototipo de Eco3Wash</span></div></p>
 
   * Aprovechamiento de recursos de las aguas residuales: Las aguas residuales contienen recursos aprovechables también, como lo son el nitrógeno y el fósforo, nutrientes que pueden ser valorizados mediante la aplicación de distintas técnicas de tratamiento de aguas.  
   
