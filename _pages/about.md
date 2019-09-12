@@ -17,11 +17,11 @@ comments: true
       <div class="pt-4 pt-md-0 text-center">
         <div class="d-inline-flex flex-items-center">
           <div class="purple-square d-flex flex-justify-center p-2">
-            <img src="/images/octicons/file-media.svg" alt="Icon representing an image file" class="width-fit flex-auto">
+            <i class"fa fa-flag"></i>
           </div>
         </div>
 
-        <h4 class="h5 my-2 pt-1">
+        <h4 class="my-2 pt-1">
           Nuestra Misión
         </h4>
         <p class="f4-light mt-2 mb-0">
@@ -38,7 +38,7 @@ comments: true
           </div>
         </div>
 
-        <h4 class="h5 my-2 pt-1">
+        <h4 class="my-2 pt-1">
           Nuestra Visión
         </h4>
         <p class="f4-light mt-2 mb-0">
@@ -55,7 +55,7 @@ comments: true
           </div>
         </div>
 
-        <h4 class="h5 my-2 pt-1">
+        <h4 class="my-2 pt-1">
           Nuestra Historia
         </h4>
         <p class="f4-light mt-2 mb-0">
