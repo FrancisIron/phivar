@@ -1,8 +1,8 @@
 ---
 title: "Acerca de nosotros"
-layout: page-sidebar
+layout: page
 permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 comments: true
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+<div class="vc_row wpb_row vc_row-fluid cscra-dhav-dotted vc_custom_1537189183794"><div class="wpb_column vc_column_container text-default vc_col-sm-6 vc_col-lg-4 vc_col-md-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="about-item cscra-item cscra-about-5d7a94266024a " style="height: 212px;"><div class="cscra-icon"><span class="pe-7s-science"></span></div><h3 class="about-title">Nuestra Misión</h3><p>nuestra misión es entregar contenidos de calidad para que las personas puedan aprender e informarse con nosotros, entregando periódicamente artículos y cursos.</p></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-6 vc_col-lg-4 vc_col-md-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="about-item cscra-item cscra-about-5d7a9426602d4 " style="height: 212px;"><div class="cscra-icon"><span class="pe-7s-notebook"></span></div><h3 class="about-title">Nuestra Visión</h3><p>Apuntamos a ser un sitio de referencia en temas relacionados con la tecnología que es lo que nos apasiona</p></div></div></div></div><div class="wpb_column vc_column_container text-default vc_col-sm-6 vc_col-lg-4 vc_col-md-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="about-item cscra-item cscra-about-5d7a942660344 " style="height: 212px;"><div class="cscra-icon"><span class="pe-7s-light"></span></div><h3 class="about-title">Nuestra Historia</h3><p>nacimos como un blog de tecnología, dedicado a varias áreas, pero de a poco hemos tomado un norte distinto al con el que partimos.</p></div></div></div></div></div>
