@@ -4,6 +4,7 @@ author: fierro
 layout: post
 image: assets/images/articulo-introducionBigData.jpg
 categories: [Articulos]
+comments: true
 ---
 ## ¿Qué es Big Data?
 

@@ -4,6 +4,7 @@ author: mako
 layout: post
 image: assets/images/articulo-horaEmprender.jpg
 categories: [Negocios]
+comments: true
 ---
 Emprendimientos hay muchos, cada día florecen cientos de negocios en el mundo, pero ¿Cuántos fracasan? Según las estadísticas 9 de cada 10 emprendimientos fracasan antes de los primeros 2 años, personalmente cuento con varios fracasos en el camino y pocos éxitos, pero esto no debe desmotivarnos, ahora te muestro la lista de cosas a tener en mente al momento de lanzarte en esta maravillosa aventura de crear tu propio negocio.
 

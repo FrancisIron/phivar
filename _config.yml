@@ -4,7 +4,7 @@ description: 'Información que te importa'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/phivar'
-disqus: ''
+disqus: 'phivar'
 email: 'contacto@consultancysoft.com'
 mailchimp-list: ''
 

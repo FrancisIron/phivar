@@ -4,6 +4,7 @@ author: mako
 layout: post
 image: assets/images/moto.jpg
 categories: [Articulos, Noticias, Tecnología]
+comments: true
 ---
 Corresponde a un nuevo modelo de celular desarrollado por la marca Motorola que nos trae recuerdos de antiguos dispositivos, con características que te mostraremos a continuación.
 

@@ -4,6 +4,7 @@ author: mako
 layout: post
 image: assets/images/articulo-mejoraContinua.jpg
 categories: [Negocios, Calidad, Gestión de calidad]
+comments: true
 ---
 Este post viene como respuesta a una conversación con mis amigos, ellos tenían una idea equivocada del concepto, como buena ingeniera industrial, esto es parte de mi vida, y en el siguiente post explicaré todo con el mayor detalle posible. 
 

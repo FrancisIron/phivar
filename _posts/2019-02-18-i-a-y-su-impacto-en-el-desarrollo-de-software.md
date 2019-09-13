@@ -4,6 +4,7 @@ author: fierro
 layout: post
 image: assets/images/articulo-ia.jpg
 categories: [Articulos]
+comments: true
 ---
 Durante décadas, los científicos han tratado de desarrollar diferentes técnicas, modelos y algoritmos que doten de a las computadoras con el conocimiento, experiencia y comportamiento sea similar al de un ser humano. Esto es lo que da nacimiento a las inteligencias artificiales, una forma de definirlas desde el punto de vista de la informática es que son maquinas o sistemas informáticos capaces de percibir su entorno y llevar a cabo acciones que maximicen sus posibilidades de éxito en alguna determinada tarea o objetivo, osea, que sean capaces de imitar las funciones cognitivas de los seres humanos.
 
