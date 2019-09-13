@@ -7,3 +7,4 @@ image: assets/images/post-arquitecturaMicroservicios.jpg
 comments: true
 ---
 
+![Texto alterno]({{site.baseurl}}/assets/images/foto-arquitecturaMicroservicios.jpg)
