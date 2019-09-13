@@ -14,7 +14,9 @@ Debido a la privatización del sistema operativo de Google para los equipos de H
 
 Según Fayerwayer, se podrían enfrentar problemas debido a:
 >Una versión alternativa del sistema provocaría que se  perdiera el sistema Google Play Protect, generando problemas serios de  seguridad para los usuarios.
+>
 >Huawei es una empresa seria capaz de mantener la seguridad  de sus dispositivos de forma óptima, generando que si se les corta el  suministro de Android a ellos otras empresas tomarían un camino similar y  surgirían serios problemas de seguridad en el sistema.
+>
 >En el mercado existen muchas aplicaciones con malware  actualmente, por lo que si no existe un buen apartado de seguridad en el  sistema que la empresa pueda crear podría en serios riegos la  información personal de los usuarios. 
 >
 > [FayerWayer](https://www.fayerwayer.com/2019/06/google-defiende-huawei-eeuu/)

@@ -26,7 +26,7 @@ También es importante observarlos y observar cómo se comportan, hace tiempo ve
 
 ## 4. Capacítate continuamente
 
-Al ser emprendedor debes estar dispuesto siempre a seguir aprendiendo, existirán veces que podrán llegar procesos o tecnología que te descoloque, pero no siempre es algo terrible (puedes revisar también el artículo que publiqué sobre el tema, [aquí](https://consultancysoft.com/mitos-y-verdades-de-la-implementacion-de-software-en-el-trabajo/)), es necesario aprender a convivir y sacarle provecho a lo que hay, aprender de esos nuevos métodos y ver si son aplicables a tu realidad.
+Al ser emprendedor debes estar dispuesto siempre a seguir aprendiendo, existirán veces que podrán llegar procesos o tecnología que te descoloque, pero no siempre es algo terrible (puedes revisar también el artículo que publiqué sobre el tema, [aquí]({{site.baseurl}}/mitos-y-verdades-de-la-implementacion-de-software-en-el-trabajo/), es necesario aprender a convivir y sacarle provecho a lo que hay, aprender de esos nuevos métodos y ver si son aplicables a tu realidad.
 
 Existe una gran cantidad de contenido gratuito y pagado en internet, clases no presenciales que te dejarán algo, puede que aprendas algo que complemente el producto/servicio que ofreces u ofrecerías, o también puede que aprendas nuevas habilidades que te permita comenzar con una nueva y brillante idea. 
 
