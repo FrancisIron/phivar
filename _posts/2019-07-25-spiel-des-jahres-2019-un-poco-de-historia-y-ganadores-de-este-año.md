@@ -66,4 +66,4 @@ El criterio base desde el cual se valora un juego son:
 
 Como se ha dicho antes, llevar el sello de ganador en la caja equivale a un incremento en ventas y popularidad, pero el éxito también llega a los nominados, dada la enorme repercusión del premio en el mercado e industria de los juegos de mesa.
 
-#### ¿Y qué les parecieron los ganadores?, ¿se esperaban ese trasfondo detrás de Alemania?, ¿ya tienen ganas de probar alguno de los juegos?, estaré leyendo sus comentarios, hasta la próxima.
+**¿Y qué les parecieron los ganadores?, ¿se esperaban ese trasfondo detrás de Alemania?, ¿ya tienen ganas de probar alguno de los juegos?, estaré leyendo sus comentarios, hasta la próxima.**
