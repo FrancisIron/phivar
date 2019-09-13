@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/phivar'
 disqus: 'phivar'
-email: 'contacto@consultancysoft.com'
+email: 'info@consultancysoft.com'
 mailchimp-list: ''
 
 include: ["_pages"]
