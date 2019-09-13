@@ -17,9 +17,9 @@ Recientemente, este proyecto presento la especificación y arquitectura que perm
 
 La meta final de todo esto, es que los usuarios sean capaces de transferir sus datos desde un servicio a otro, sin la necesidad de apoyarse de un intermediario o de tener que descargar y volver a subir todos sus datos.
 
-Para facilitar la complicada misión de portabilidad de datos, **Data Transfer Project** define una serie de _adapters_ (adaptadores) que transformen los formatos propietarios a una serie de _Data Models_ (modelo de datos) común. Esto permitirá que la transferencia de datos pueda hacerse desde el propio proveedor del servicios a otro manteniendo el control sobre la seguridad e integridad de los datos.<figure class="wp-block-image">
+Para facilitar la complicada misión de portabilidad de datos, **Data Transfer Project** define una serie de _adapters_ (adaptadores) que transformen los formatos propietarios a una serie de _Data Models_ (modelo de datos) común. Esto permitirá que la transferencia de datos pueda hacerse desde el propio proveedor del servicios a otro manteniendo el control sobre la seguridad e integridad de los datos.
 
-<img src="https://consultancysoft.com/wp-content/uploads/2019/08/Imagen1-1024x532.png" alt="" class="wp-image-2754" srcset="https://consultancysoft.com/wp-content/uploads/2019/08/Imagen1-1024x532.png 1024w, https://consultancysoft.com/wp-content/uploads/2019/08/Imagen1-300x156.png 300w, https://consultancysoft.com/wp-content/uploads/2019/08/Imagen1-768x399.png 768w, https://consultancysoft.com/wp-content/uploads/2019/08/Imagen1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Ejemplo de portabilidad de datos, antes del Data Transfer Project y como sería estando implementado.</figcaption></figure> 
+<p><div class='img'><img src='{{site.baseurl}}/assets/images/ilustracion-dtp1.png'/><span>Ejemplo de portabilidad de datos, antes del Data Transfer Project y como sería estando implementado.</span></div></p>
 
 Ahora bien, estos _Data Models_ (modelos de datos) están limitados en función de la información que se puede compartir de un servicio a otro, ya que es imposible modelar toda la información, pero los distintos casos de uso ya creados como la migración de fotos o contactos, cubre de por sí, un amplio horizonte de funcionalidades esperadas. Para el resto de información aun habrá que seguir usando mecanismos que incorporen metadata más especifica.
 
@@ -35,9 +35,9 @@ La idea es que por medio de los Data Models podamos definir el formato de datos 
 
 Con los Adapters podemos hacer la traducción entre los datos dados de un proveedor concreto (la API del servicio) a los Data Models de intercambio de DTP. Además de la transformación de los datos, existe otro tipo de Adapters que se ocupan de la autenticación de los datos. Aunque OAuth ha sido el proveedor más extendido, DTP es agnóstico en el tipo de autenticación.
 
-Por último, el conjunto de tareas necesarias para realizar la carga de la portabilidad de datos reside en el otro gran componente de Tasks. Estos se encargan de realizar los llamados entre los distintos Adapters, realizar la lógica de reintento, gestionar los rate limits, paginación, notificaciones, etc.<figure class="wp-block-image">
+Por último, el conjunto de tareas necesarias para realizar la carga de la portabilidad de datos reside en el otro gran componente de Tasks. Estos se encargan de realizar los llamados entre los distintos Adapters, realizar la lógica de reintento, gestionar los rate limits, paginación, notificaciones, etc.
 
-<img src="https://consultancysoft.com/wp-content/uploads/2019/08/Imagen2-1024x974.png" alt="" class="wp-image-2755" srcset="https://consultancysoft.com/wp-content/uploads/2019/08/Imagen2-1024x974.png 1024w, https://consultancysoft.com/wp-content/uploads/2019/08/Imagen2-300x285.png 300w, https://consultancysoft.com/wp-content/uploads/2019/08/Imagen2-768x730.png 768w, https://consultancysoft.com/wp-content/uploads/2019/08/Imagen2.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Arquitectura y flujo de trabajo de DTP </figcaption></figure> 
+<p><div class="img"><img src='{{site.baseurl}}/assets/images/ilustracion-dtp2.png'><span>Arquitectura y flujo de trabajo de DTP</span></div></p>
 
 ¿Qué les pareció?, ¿han tenido la engorrosa misión de tener que migrar los contactos cuando han querido cambiar de servicio?. Cuentenme en los comentarios, los estaré leyendo. 
 

@@ -15,3 +15,16 @@ Si, quizás esto te suene deprimente al principio, la verdad es que a todos nos 
 Iniciamos sesión en nuetra cuenta de Google y, posteriormente nos dirigimos a la configuración de la misma.
 
 ### Segundo paso: entrar a picar
+
+La administración de las cuentas Google te entrega un apartado **Datos y personalización** y allí está la opción llamada **Descargar, eliminar o crear un plan para los datos** y es aquí donde partimos la aventura de planear un fin para la cuenta
+
+![Paso 2]({{site.baseurl}}/assets/images/foto-googleMuerte-1.jpg)
+![Paso 3]({{site.baseurl}}/assets/images/foto-googleMuerte-2.jpg)
+![Paso 4]({{site.baseurl}}/assets/images/foto-googleMuerte-3.jpg)
+![Paso 5]({{site.baseurl}}/assets/images/foto-googleMuerte-4.jpg)
+![Paso 6.1]({{site.baseurl}}/assets/images/foto-googleMuerte-5.jpg)
+![Paso 6.2]({{site.baseurl}}/assets/images/foto-googleMuerte-6.jpg)
+![Paso 7.1]({{site.baseurl}}/assets/images/foto-googleMuerte-7.jpg)
+![Paso 7.2]({{site.baseurl}}/assets/images/foto-googleMuerte-8.jpg)
+![Paso 8]({{site.baseurl}}/assets/images/foto-googleMuerte-9.jpg)
+![Paso 9]({{site.baseurl}}/assets/images/foto-googleMuerte-10.jpg)
