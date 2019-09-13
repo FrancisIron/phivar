@@ -24,7 +24,7 @@ Se utiliza software en el trabajo debido a que estos sistemas asistenciales se d
 
 El principal objetivo del uso de software es simplificar y prestar asistencia a las labores cotidianas de los lugares de trabajo, con todo ello se busca lograr mejor control de las actividades que se realizan y, gracias al almacenamiento de la información, las empresas pueden conocer comportamientos de sus procesos, de sus niveles de demanda, de dónde ocurren sus cuellos de botella donde se producen desperdicios de materiales, de tiempo, entre otras, y con esta información se pueden establecer iniciativas de mejora al interior de la organización, disminuir costos, disminuir tiempos de espera y aumentar la calidad de sus servicios, entregando valor no solo a los clientes sino que también a sus proveedores y a los funcionarios.
 
-## Concluciones.
+## Conclusiones
 
 El correcto uso de software en las empresas depende de varios factores, a la hora de elegir un sistema informático es necesario conocer cuales son mis objetivos como empresario con esta implementación, qué es lo que se espera lograr, cuales son los requisitos que debe cumplir el sistema para que efectivamente cumpla lo que necesito.
 
