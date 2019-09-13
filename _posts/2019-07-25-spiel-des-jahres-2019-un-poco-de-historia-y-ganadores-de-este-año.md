@@ -34,31 +34,31 @@ El criterio base desde el cual se valora un juego son:
 
 ### Los nominados para _Spiel des Jahres_ fueron:
 
-<table><thead><tr><th>Juego</th><th>Diseñador</th><th>Editorial</th></tr></thead><tbody><tr><td>Just One</td><td>Ludovic Roudy y Bruno Sautter</td><td>Repos Production</td></tr><tr><td>Lama</td><td>Reiner Knizia</td><td>Amigo</td></tr><tr><td>Werewords</td><td>Ted Alspach</td><td>Bézier Games</td></tr></tbody></table>
+<table class="table table-bordered"><thead class="text-center"><tr><th>Juego</th><th>Diseñador</th><th>Editorial</th></tr></thead><tbody><tr><td>Just One</td><td>Ludovic Roudy y Bruno Sautter</td><td>Repos Production</td></tr><tr><td>Lama</td><td>Reiner Knizia</td><td>Amigo</td></tr><tr><td>Werewords</td><td>Ted Alspach</td><td>Bézier Games</td></tr></tbody></table>
 
 ### Y el ganador fue...
 
-![Caja del juego, Just One]({{page.baseurl}}/assets/images/foto-JustOne.png)
+![Caja del juego, Just One]({{site.baseurl}}/assets/images/foto-JustOne.png)
 
 **Just One** es un party game (juego para fiestas) cooperativo en el que los participantes juegan juntos para descubrir tantas palabras misteriosas como sea posible. Incentiva a sus participantes a ser creativos en encontrar las mejores pistas que ayuden a tus compañeros de equipo y tiene como componente de dificultad que cada pista tiene que ser única, porque las que sean idénticas son anuladas.
 
 ### Los nominados a _Kennerspiel des Jahres_ fueron:
 
-<table><thead><tr><th>Juego</th><th>Diseñador</th><th>Editorial</th></tr></thead><tbody><tr><td>Carpe Diem</td><td>Stefan Feld</td><td>alea/Ravensburger</td></tr><tr><td>Detective: A Modern Crime Board Game</td><td>Ignacy Trzewiczek, Przemysław Rymer y Jakub Łapot</td><td>Portal Games/Pegasus Spiele</td></tr><tr><td>Wingspan</td><td>Elizabeth Hargrave</td><td>Stonemaier Games</td></tr></tbody></table>
+<table class="table table-bordered"><thead class="text-center"><tr><th>Juego</th><th>Diseñador</th><th>Editorial</th></tr></thead><tbody><tr><td>Carpe Diem</td><td>Stefan Feld</td><td>alea/Ravensburger</td></tr><tr><td>Detective: A Modern Crime Board Game</td><td>Ignacy Trzewiczek, Przemysław Rymer y Jakub Łapot</td><td>Portal Games/Pegasus Spiele</td></tr><tr><td>Wingspan</td><td>Elizabeth Hargrave</td><td>Stonemaier Games</td></tr></tbody></table>
 
 ### Y el ganador fue...
 
-![Caja del juego, Wingspan]({{page.baseurl}}/assets/images/foto-Wingspan.png)
+![Caja del juego, Wingspan]({{site.baseurl}}/assets/images/foto-Wingspan.png)
 
 **Wingspan** es un juego competitivo de producción y coleccionismo de aves. En el, los participantes encarnan a apasionados por las aves (que puede ser un investigadores, observadores de aves, ornitólogos y/o coleccionistas) que están intentando descubrir y atraer a las más interesantes a sus aviarios. Cada ave es un nuevo engranaje en una potente cadena de combinaciones (o acciones) que van formando los hábitats de cada jugador. Estos hábitats se centran en diversos aspectos fundamentales del crecimiento. El ganador es quien más puntos acumule sumando aves, cartas de bonificación, objetivos de final de ronda, huevos, alimentando acumulado y aves solapadas después de cuatro rondas.
 
 ### Los nominados a _Kinderspiel des Jahres_ fueron:
 
-<table><thead><tr><th>Juego</th><th>Diseñador</th><th>Editorial</th></tr></thead><tbody><tr><td>Fabulantica</td><td>Marco Teubner</td><td>Pegasus Spiele</td></tr><tr><td>Go Gecko Go!</td><td>Jürgen Adams</td><td>Zoch</td></tr><tr><td>Tal der Wikinger (El Valle de los Vikingos)</td><td>Marie Fort y Wilfried Fort</td><td>Haba</td></tr></tbody></table>
+<table class="table table-bordered"><thead class="text-center"><tr><th>Juego</th><th>Diseñador</th><th>Editorial</th></tr></thead><tbody><tr><td>Fabulantica</td><td>Marco Teubner</td><td>Pegasus Spiele</td></tr><tr><td>Go Gecko Go!</td><td>Jürgen Adams</td><td>Zoch</td></tr><tr><td>Tal der Wikinger (El Valle de los Vikingos)</td><td>Marie Fort y Wilfried Fort</td><td>Haba</td></tr></tbody></table>
 
 ### Y el ganador fue...
 
-![Caja del juego, Valley of the Vikings]({{page.baseurl}}/assets/images/foto-valleyVikings.jpg)
+![Caja del juego, Valley of the Vikings]({{site.baseurl}}/assets/images/foto-valleyVikings.jpg)
 
 **Tal der Wikinger (El Valle de los Vikingos)** se celebra el concurso anual de bolos de barril, donde los competidores tratan de derribar los barriles que les permitan obtener la mayor cantidad de monedas de oro. Posicionar a los vikingos en el muelle de una forma correcta puede evitar fatídicas caídas al agua. La habilidad y el riesgo están presentes en esta propuesta de Haba.
 
