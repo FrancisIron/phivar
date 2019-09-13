@@ -20,11 +20,11 @@ Este punto es algo contradictorio al anterior, muchas veces una persona puede co
 
 También puede ser beneficioso hacer un análisis de competidores ¿Qué es lo que ellos están haciendo? ¿Qué cosas las hacen bien? ¿Cuál es la opinión de sus clientes? Entre otras.
 
-## 3.&nbsp; Observa cómo se comporta tu cliente
+## 3. Observa cómo se comporta tu cliente
 
 También es importante observarlos y observar cómo se comportan, hace tiempo veía una presentación de una emprendedora, ella tenía una receta deliciosa para hacer un snack, realizó pruebas con consumidores en Focus groups, y todos coincidían en que el producto era delicioso, pero, al llegar a estanterías de supermercados nadie lo compraba ¿Qué pasaba entonces? Decidió ir y observar qué pasaba entonces, un día fue a un supermercado, se sentó por varios minutos cerca de donde estaban sus productos y notó algo importante: las personas elegían cosas saladas como papas fritas y otros, luego se preguntó ¿Por qué? Y estudió el contexto donde se comía su producto y se dio cuenta de su error, tenía un producto delicioso, pero ese producto no se solía comer como cualquier otro snack, ese producto se comía en situaciones especiales en ciertos contextos, eran más para una sala de cine que para un supermercado. ¿Qué aprendimos de lo anterior? Que es necesario aprender la forma como los clientes o consumidores usan los productos o servicios. 
 
-## 4.&nbsp; Capacítate continuamente
+## 4. Capacítate continuamente
 
 Al ser emprendedor debes estar dispuesto siempre a seguir aprendiendo, existirán veces que podrán llegar procesos o tecnología que te descoloque, pero no siempre es algo terrible (puedes revisar también el artículo que publiqué sobre el tema, [aquí](https://consultancysoft.com/mitos-y-verdades-de-la-implementacion-de-software-en-el-trabajo/)), es necesario aprender a convivir y sacarle provecho a lo que hay, aprender de esos nuevos métodos y ver si son aplicables a tu realidad.
 
