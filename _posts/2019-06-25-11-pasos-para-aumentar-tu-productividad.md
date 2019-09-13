@@ -1,5 +1,5 @@
 ---
-title: "11 PASOS PARA AUMENTAR TU PRODUCTIVIDAD"
+title: "11 Pasos para aumentar tu productividad"
 author: mako
 layout: post
 image: assets/images/articulo-aumentarProductividad.jpg
